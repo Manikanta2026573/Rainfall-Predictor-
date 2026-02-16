@@ -40,6 +40,6 @@ The objective of this project is to predict rainfall based on historical weather
 
   Vite
 
-Tailwind CSS
+  Tailwind CSS
 
-Git & GitHub
+  Git & GitHub
