@@ -30,15 +30,15 @@ The objective of this project is to predict rainfall based on historical weather
 
 🛠 Technologies Used
 
-Python
+  Python
 
-Scikit-learn
+  Scikit-learn
 
-Pandas & NumPy
+  Pandas & NumPy
 
-React + TypeScript
+  React + TypeScript
 
-Vite
+  Vite
 
 Tailwind CSS
 
