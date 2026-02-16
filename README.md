@@ -1,20 +1,20 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+## Rainfall Predictor India
 
-# Run and deploy your AI Studio app
+This project analyzes Indian rainfall data and predicts rainfall using ML models.
 
-This contains everything you need to run your app locally.
+## Setup
 
-View your app in AI Studio: https://ai.studio/apps/drive/1JTdzU7kAnZmHVuxVxGxihCp7gbqLnE-1
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c2aa9319-23d6-4e04-bc7f-bc9e1f2191fa" />
 
-## Run Locally
+ ## Predict Rainfall
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dcdcbe2f-e68b-4bd2-8482-7ef914eb8138" />
 
-**Prerequisites:**  Node.js
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f8b57d5d-9f52-467e-a5c3-1c984c80d8d7" />
+
+## Exploratory Data Analysis
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1c9f3104-df0c-4a1f-90e2-74928a59837b" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/880b21cb-b890-4244-ad7e-20e3c024822e" />
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
